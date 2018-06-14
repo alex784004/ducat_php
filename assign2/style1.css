@@ -1,0 +1,42 @@
+.clockFont
+{ 	
+	font-size: 50px;
+	text-align: center;
+	width:300px;
+
+}
+.clockBorder
+{
+	border: 6px solid #f2f2f2;
+	background-color:black; 
+	color: #00ff00;
+  	border-style: inset;
+ 	width:250px;
+ 	text-align: center;
+ 	  margin-left: auto;
+    margin-right: auto;
+
+}
+body
+{	align-content: center;
+	text-align: center;
+	background-color:  lightblue;
+
+	
+
+}
+h3
+{
+	text-align: center;
+}
+fieldset { 
+    
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    background-color: white;
+    
+}
